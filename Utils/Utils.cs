@@ -1,4 +1,4 @@
-namespace Utils{
+namespace UtilsMethods{
 
     public static class Utils{
 

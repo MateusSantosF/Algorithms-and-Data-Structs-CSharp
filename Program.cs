@@ -8,10 +8,16 @@ namespace Program{
 
         public static void Main(string[] args){
 
-            int[] arr = new int[9]{0,6,3,1,2,10,2,8,5};
+            int[] arrBubble = new int[9]{0,6,3,1,2,10,2,8,5};
+            int[] arrInsertion = new int[9]{0,6,3,1,2,10,2,8,5};
 
-            BubbleSort.sort(arr);
-            print(arr);
+            Console.WriteLine("\nInsertion Sort");
+            InsertionSort.sort(arrInsertion);
+            print(arrInsertion);
+
+            Console.WriteLine("\nBubble Sort");
+            BubbleSort.sort(arrBubble);
+            print(arrBubble);
 
         }
 

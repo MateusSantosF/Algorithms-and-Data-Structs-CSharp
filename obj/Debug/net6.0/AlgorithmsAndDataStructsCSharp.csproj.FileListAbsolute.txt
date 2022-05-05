@@ -1,0 +1,15 @@
+/home/mateus/Documents/Algorithms-and-Data-Structs-C#/AlgorithmsAndDataStructsCSharp/bin/Debug/net6.0/AlgorithmsAndDataStructsCSharp
+/home/mateus/Documents/Algorithms-and-Data-Structs-C#/AlgorithmsAndDataStructsCSharp/bin/Debug/net6.0/AlgorithmsAndDataStructsCSharp.deps.json
+/home/mateus/Documents/Algorithms-and-Data-Structs-C#/AlgorithmsAndDataStructsCSharp/bin/Debug/net6.0/AlgorithmsAndDataStructsCSharp.runtimeconfig.json
+/home/mateus/Documents/Algorithms-and-Data-Structs-C#/AlgorithmsAndDataStructsCSharp/bin/Debug/net6.0/AlgorithmsAndDataStructsCSharp.dll
+/home/mateus/Documents/Algorithms-and-Data-Structs-C#/AlgorithmsAndDataStructsCSharp/bin/Debug/net6.0/AlgorithmsAndDataStructsCSharp.pdb
+/home/mateus/Documents/Algorithms-and-Data-Structs-C#/AlgorithmsAndDataStructsCSharp/obj/Debug/net6.0/AlgorithmsAndDataStructsCSharp.csproj.AssemblyReference.cache
+/home/mateus/Documents/Algorithms-and-Data-Structs-C#/AlgorithmsAndDataStructsCSharp/obj/Debug/net6.0/AlgorithmsAndDataStructsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus/Documents/Algorithms-and-Data-Structs-C#/AlgorithmsAndDataStructsCSharp/obj/Debug/net6.0/AlgorithmsAndDataStructsCSharp.AssemblyInfoInputs.cache
+/home/mateus/Documents/Algorithms-and-Data-Structs-C#/AlgorithmsAndDataStructsCSharp/obj/Debug/net6.0/AlgorithmsAndDataStructsCSharp.AssemblyInfo.cs
+/home/mateus/Documents/Algorithms-and-Data-Structs-C#/AlgorithmsAndDataStructsCSharp/obj/Debug/net6.0/AlgorithmsAndDataStructsCSharp.csproj.CoreCompileInputs.cache
+/home/mateus/Documents/Algorithms-and-Data-Structs-C#/AlgorithmsAndDataStructsCSharp/obj/Debug/net6.0/AlgorithmsAndDataStructsCSharp.dll
+/home/mateus/Documents/Algorithms-and-Data-Structs-C#/AlgorithmsAndDataStructsCSharp/obj/Debug/net6.0/refint/AlgorithmsAndDataStructsCSharp.dll
+/home/mateus/Documents/Algorithms-and-Data-Structs-C#/AlgorithmsAndDataStructsCSharp/obj/Debug/net6.0/AlgorithmsAndDataStructsCSharp.pdb
+/home/mateus/Documents/Algorithms-and-Data-Structs-C#/AlgorithmsAndDataStructsCSharp/obj/Debug/net6.0/AlgorithmsAndDataStructsCSharp.genruntimeconfig.cache
+/home/mateus/Documents/Algorithms-and-Data-Structs-C#/AlgorithmsAndDataStructsCSharp/obj/Debug/net6.0/ref/AlgorithmsAndDataStructsCSharp.dll

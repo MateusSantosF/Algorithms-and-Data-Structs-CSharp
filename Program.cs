@@ -10,6 +10,11 @@ namespace Program{
 
             int[] arrBubble = new int[9]{0,6,3,1,2,10,2,8,5};
             int[] arrInsertion = new int[9]{0,6,3,1,2,10,2,8,5};
+            int[] arrSelection = new int[9]{0,6,3,1,2,10,2,8,5};
+
+            Console.WriteLine("\nSelection Sort");
+            SelectionSort.sort(arrSelection);
+            print(arrSelection);
 
             Console.WriteLine("\nInsertion Sort");
             InsertionSort.sort(arrInsertion);
